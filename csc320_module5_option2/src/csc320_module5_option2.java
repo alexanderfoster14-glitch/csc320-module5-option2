@@ -30,7 +30,7 @@ public class csc320_module5_option2 {
 		
 		//Print program instructions to console.
 		System.out.println("Instructions:");
-		System.out.println("Enter the name of the month you want to konw the average temperature of.");
+		System.out.println("Enter the name of the month you want to know the average temperature of.");
 		System.out.println("Enter \"Year\" to get the average temperatures for all months along with yearly average temperature and highest and lowest monthly averages.");
 		System.out.println("");
 		System.out.println("Enter one of the following:");
